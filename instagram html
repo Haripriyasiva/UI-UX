@@ -1,0 +1,94 @@
+<div className="HomePage" style={{width: 393, height: 852, position: 'relative', background: 'black', borderRadius: 30, overflow: 'hidden'}}>
+  <div className="LucideBookmark" style={{width: 25, height: 25, paddingTop: 3.13, paddingBottom: 3.12, paddingLeft: 5.21, paddingRight: 5.21, left: 346, top: 604, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 14.58, height: 18.75, border: '3.33px white solid'}}></div>
+  </div>
+  <div className="Vector" style={{width: 170, height: 60, left: 13, top: 50, position: 'absolute', background: 'white'}}></div>
+  <div className="Vector" style={{width: 29.09, height: 26.24, left: 280, top: 64, position: 'absolute', background: 'white'}}></div>
+  <div className="InstagramWordmarkWhiteDarkBackgroundLogoWine1" style={{width: 1, height: 2, paddingLeft: 0.12, paddingRight: 0.12, paddingTop: 0.67, paddingBottom: 0.67, left: 129, top: 68, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 0.77, height: 0.65, background: 'white'}}></div>
+  </div>
+  <div className="Vector" style={{width: 5.47, height: 21.09, left: 356, top: 297, position: 'absolute', background: 'white'}}></div>
+  <div className="GgBattery" style={{width: 24, height: 30, paddingLeft: 2, paddingRight: 2, paddingTop: 7.50, paddingBottom: 7.50, left: 336, top: 37, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Group" style={{width: 20, height: 15, position: 'relative'}}>
+      <div className="Vector" style={{width: 7, height: 7.50, left: 3, top: 3.75, position: 'absolute', background: 'white'}}></div>
+      <div className="Vector" style={{width: 20, height: 15, left: 0, top: 0, position: 'absolute', background: 'white'}}></div>
+    </div>
+  </div>
+  <div className="00" style={{left: 32, top: 16, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 15, fontFamily: 'Inter', fontWeight: '600', wordWrap: 'break-word'}}>7:00</div>
+  <div className="F7BellSlash" style={{width: 20, height: 20, paddingTop: 1.35, paddingBottom: 1.35, paddingLeft: 1.71, paddingRight: 1.77, left: 285, top: 12, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 16.52, height: 17.29, background: 'white'}}></div>
+  </div>
+  <div className="Vector" style={{width: 20, height: 20, left: 311, top: 9, position: 'absolute', background: 'white'}}></div>
+  <img className="Ellipse43" style={{width: 70, height: 70, left: 19, top: 270, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/70x70" />
+  <div className="LonelyGirl" style={{left: 103, top: 300, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>lonely_girl</div>
+  <img className="Rectangle1" style={{width: 393, height: 230, left: -1, top: 360, position: 'absolute'}} src="https://via.placeholder.com/393x230" />
+  <div className="Vector" style={{width: 29.09, height: 26.24, left: 11, top: 610, position: 'absolute', background: 'white'}}></div>
+  <div style={{left: 50, top: 614, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>256</div>
+  <div className="Vector" style={{width: 26.25, height: 26.25, left: 90, top: 607, position: 'absolute', border: '2px white solid'}}></div>
+  <div style={{left: 126, top: 611, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>17</div>
+  <div className="Vector" style={{width: 21.46, height: 21.46, left: 150, top: 610, position: 'absolute', background: 'white'}}></div>
+  <div className="Vector" style={{width: 23, height: 23, left: 341, top: 69, position: 'absolute', background: 'white'}}></div>
+  <div className="LonelyGirlIsDreamingAllTheDay" style={{left: 11, top: 653, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>“Lonely girl is dreaming all the day</div>
+  <div className="OfThingsSheKnowsAreFarAway" style={{left: 19, top: 681, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>of things she knows are far away.”</div>
+  <div className="RollinggirlLonelygirl" style={{left: 19, top: 715, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 16, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>#rollinggirl #lonelygirl </div>
+  <img className="Ellipse44" style={{width: 70, height: 70, left: 24, top: 743, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/70x70" />
+  <div className="NatureLuv" style={{left: 103, top: 769, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Nature_luv</div>
+  <div className="Vector" style={{width: 5.47, height: 21.09, left: 362, top: 762, position: 'absolute', background: 'white'}}></div>
+  <div className="Rectangle3" style={{width: 415, height: 114, left: -11, top: 760, position: 'absolute', background: 'black', border: '1px black solid'}} />
+  <div className="MajesticonsHomeLine" style={{width: 38, height: 38, paddingTop: 6.73, paddingBottom: 6.33, paddingLeft: 6.33, paddingRight: 6.33, left: 24, top: 779, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 25.33, height: 24.94, border: '2px white solid'}}></div>
+  </div>
+  <div className="IcSharpSearch" style={{width: 38, height: 38, paddingTop: 4.75, paddingBottom: 5.56, paddingLeft: 4.75, paddingRight: 5.56, left: 101, top: 783, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 27.69, height: 27.69, background: 'white'}}></div>
+  </div>
+  <div className="BasilAddOutline" style={{width: 38, height: 38, left: 175, top: 783, position: 'absolute'}}>
+    <div className="Vector" style={{width: 15.81, height: 15.81, left: 11.09, top: 11.09, position: 'absolute', background: 'white'}}></div>
+    <div className="Vector" style={{width: 26.84, height: 26.89, left: 5.58, top: 5.56, position: 'absolute', background: 'white'}}></div>
+  </div>
+  <div className="IconParkOutlineVideo" style={{width: 35, height: 35, paddingLeft: 2.92, paddingRight: 2.92, paddingTop: 5.83, paddingBottom: 5.83, left: 260, top: 785, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Group" style={{width: 29.17, height: 23.33, position: 'relative'}}>
+      <div className="Vector" style={{width: 29.17, height: 23.33, left: 0, top: 0, position: 'absolute', border: '4px white solid'}}></div>
+      <div className="Vector" style={{width: 29.17, height: 23.33, left: 0, top: 0, position: 'absolute', border: '4px white solid'}}></div>
+      <div className="Vector" style={{width: 5.83, height: 7.29, left: 12.40, top: 8.02, position: 'absolute', border: '4px white solid'}}></div>
+    </div>
+  </div>
+  <img className="Ellipse45" style={{width: 38, height: 38, left: 334, top: 780, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/38x38" />
+  <div className="Frame1" style={{height: 143, paddingTop: 8, paddingBottom: 8, left: 13, top: 124, position: 'absolute', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Component1" style={{width: 1044, height: 127, position: 'relative', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+      <div className="Ellipse21" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse22" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse23" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse24" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse25" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse26" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse27" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse28" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse29" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse30" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse31" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse33" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <div className="Ellipse32" style={{width: 100, height: 100, borderRadius: 9999, border: '4px #E4E73A solid'}} />
+      <img className="Ellipse34" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse35" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse36" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse37" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse38" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse39" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse40" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse41" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <img className="Ellipse42" style={{width: 94, height: 94, borderRadius: 9999}} src="https://via.placeholder.com/94x94" />
+      <div className="ZondiconsAddSolid" style={{width: 23, height: 23, justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+        <div className="Vector" style={{width: 23, height: 23, background: '#699BF7'}}></div>
+      </div>
+      <div className="AiWorld" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>AI_world</div>
+      <div className="Doggie9" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Doggie_9</div>
+      <div className="DeerForest" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Deer_forest</div>
+      <div className="LonelyGirl" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>lonely_girl</div>
+      <div className="YourStory" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Your Story</div>
+      <div className="Pavi2623" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>pavi_2623</div>
+      <div className="Rekha07" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>rekha_07</div>
+      <div className="AjayD" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>Ajay_d</div>
+      <div className="NatureLuv" style={{textAlign: 'center', color: 'white', fontSize: 14, fontFamily: 'Inter', fontWeight: '500', wordWrap: 'break-word'}}>nature_luv</div>
+    </div>
+  </div>
+</div>
